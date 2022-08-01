@@ -4,3 +4,4 @@ LFD_Chap7/
 MLP2Autoregressive/
 .ipynb_checkpoints/
 lightning_logs/
+*.ckpt
