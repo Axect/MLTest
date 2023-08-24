@@ -10,6 +10,7 @@ dg = pd.DataFrame({
     'close': df['Close'].to_list(),
     'high': df['High'].to_list(),
     'low': df['Low'].to_list(),
+    'volume': df['Volume'].to_list(),
 })
 
 # Save data to "data/{code}/close.parquet"
